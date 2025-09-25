@@ -22,7 +22,8 @@ A API ainda está em desenvolvimento (versão inicial).
 - Atualização de CPF/CNPJ
 - Gerenciamento de cargos/roles
 
-📢 Reporte de Problemas
+📢 Reporte de Problemas 
+
 Criar reporte com:
 - Tipo
 - Descrição
